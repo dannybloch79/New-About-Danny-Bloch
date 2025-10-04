@@ -1,0 +1,21 @@
+body {color: #390570;
+}
+body {
+	background-color:#F59827
+}
+html, body {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+    font-size: 20px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}
+h3 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
